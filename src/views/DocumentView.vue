@@ -63,11 +63,7 @@
           {
             filename: "Buffer Overflow!",
             url: "https://github.com/kirbyfern/378",
-          },
-          {
-            filename: "Buffer Overflow!",
-            url: "https://github.com/kirbyfern/378",
-          },
+          }
         ],
       };
     },

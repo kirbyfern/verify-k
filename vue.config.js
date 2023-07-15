@@ -3,7 +3,7 @@ const details = require('./src/assets/details.js');
 
 module.exports = {
     publicPath: process.env.NODE_ENV === 'production'
-        ? '/~' + details.repoId + '/'
+        ? '/Verify_Kirby/'
         : '/',
     transpileDependencies: ['vuetify'],
 };
